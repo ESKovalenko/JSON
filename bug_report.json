@@ -1,1 +1,16 @@
-
+{
+  "bug_report": {
+    "title": "Bug Title",
+    "description": "Bug Description",
+    "steps_to_reproduce": "Steps to Reproduce",
+    "expected_result": "Expected Result",
+    "actual_result": "Actual Result",
+    "severity": "Severity Level",
+    "priority": "Priority",
+    "assigned_to": "Assigned To",
+    "reported_by": "Reported By",
+    "attachments": [
+      "attachment1.png",
+      "attachment2.log"
+    ]
+  }
